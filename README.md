@@ -1,10 +1,10 @@
-# Hello, I'm (your name) 👋
+# Hello, I'm Demo 👋
 
 This is my first GitHub project. Soon it will also be my website!
 
 ## About me
 
-(In Mission 4, write two or three sentences about yourself here.)
+I'm a business analytics student. I like data, coffee and hiking. This semester I'm learning machine learning.
 
 ## What I learned
 
