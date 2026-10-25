@@ -1,9 +1,9 @@
 # About Me
 
-Name: (write your name here)
+Name: Demo Student
 
-Major: (write your major here)
+Major: Business Analytics
 
-One thing I want to learn this semester: (write it here)
+One thing I want to learn this semester: How to build machine learning models
 
-A fun fact about me: (write it here)
+A fun fact about me: I can solve a Rubik's cube
